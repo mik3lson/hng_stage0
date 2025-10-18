@@ -92,5 +92,4 @@ curl http://127.0.0.1:8000/me
 
 curl<br>
 Postman<br>
-http://127.0.0.1:8000/docs<br>
 http://127.0.0.1:8000/docs— FastAPI’s built-in Swagger UI
