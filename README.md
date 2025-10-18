@@ -24,7 +24,7 @@ The app also handles network errors, timeouts, and API failures gracefully.
 
 ## 🧩 Project Structure
 ```
-cat-facts-api/
+hng_stage0/
 ├── app.py
 ├── requirements.txt
 ├── README.md
@@ -90,8 +90,7 @@ curl http://127.0.0.1:8000/me
 ##🧪 Testing
 ###You can test the API using:
 
-curl
-Postman
-http://127.0.0.1:8000/docs
+curl<br>
+Postman<br>
+http://127.0.0.1:8000/docs<br>
 http://127.0.0.1:8000/docs— FastAPI’s built-in Swagger UI
----
