@@ -87,9 +87,15 @@ curl http://127.0.0.1:8000/me
 }
 ```
 
-##🧪 Testing
-###You can test the API using:
 
+## 🧪 Testing
+###You can test the API using:
 curl<br>
 Postman<br>
 http://127.0.0.1:8000/docs— FastAPI’s built-in Swagger UI
+
+
+# Alternatively the api is hosted here:
+```link
+https://hngstage0-production-8c35.up.railway.app/
+```
